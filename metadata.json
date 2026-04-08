@@ -1,0 +1,5 @@
+{
+  "name": "TestFit Parking Generator",
+  "description": "A web app to generate optimized parking layouts based on drawn boundaries, supporting various angles and configurations.",
+  "requestFramePermissions": []
+}
