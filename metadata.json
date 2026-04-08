@@ -1,5 +1,5 @@
 {
-  "name": "TestFit Parking Generator",
+  "name": "ParkOptima",
   "description": "A web app to generate optimized parking layouts based on drawn boundaries, supporting various angles and configurations.",
   "requestFramePermissions": []
 }
